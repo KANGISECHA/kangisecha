@@ -1,16 +1,6 @@
-## Hi there 👋
-
-<!--
-**KANGISECHA/kangisecha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...software engineering
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...web development
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there 👋 I am Kang'isecha Michael 
+A graduate electrical engineer from Dedan Kimathi University of Technology
+I like learning on how to write a code and execute it.
+- 🌱 I’m currently learning ...software engineering with SKIES
+- 📫 How to reach me:michaelkangisecha@gmail.com
+- ⚡ Fun fact: ...like coding
